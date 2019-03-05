@@ -31,18 +31,20 @@ public class Team {
         assistsPerGame = _assistsPerGame;
         stealsPerGame = _stealsPerGame;
         threePointersPerGame = _threePointerPerGame;
+
+        CalculateScore();
     }
 
     public void CalculateScore()
     {
-        // store in finalscore
-        if (teamName.equalsIgnoreCase("a")) finalScore = 123;
-        else finalScore = 222;
-    }
-
-    public float GetStatValue(float stat)
-    {
-        return stat * 100f;
+        finalScore += (100 * pointsPerGame * 0.1f);
+        finalScore += (100 * fieldGoals * 0.2f);
+        finalScore += (100 * reboundsPerGame * 0.2f);
+        finalScore += (100 * turnoversPerGame * 0.2f);
+        finalScore += (100 * freeThrowsPerGame * 0.1f);
+        finalScore += (100 * assistsPerGame * 0.05f);
+        finalScore += (100 * stealsPerGame * 0.05f);
+        finalScore += (100 * threePointersPerGame * 0.1f);
     }
 
 }

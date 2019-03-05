@@ -1,0 +1,351 @@
+1 FIU 28 17-11 302 10.8
+2 Eastern Ky. 29 12-17 304 10.5
+3 Duke 28 24-4 276 9.9
+4 UTRGV 30 16-14 290 9.7
+5 New Orleans 26 16-10 247 9.5
+6 Marshall 27 14-13 253 9.4
+7 LSU 28 23-5 262 9.4
+8 Rider 28 15-13 261 9.3
+9 Auburn 27 18-9 245 9.1
+10 Washington 27 22-5 243 9.0
+11 UNC Greensboro 29 24-5 259 8.9
+12 Lamar University 28 16-12 250 8.9
+13 Furman 28 22-6 250 8.9
+14 Temple 28 20-8 249 8.9
+15 St. John's (NY) 28 20-8 248 8.9
+16 Abilene Christian 27 21-6 233 8.6
+17 Prairie View 27 15-12 230 8.5
+18 Loyola Maryland 29 10-19 247 8.5
+19 Portland St. 27 13-14 229 8.5
+20 Mississippi St. 28 21-7 235 8.4
+21 South Fla. 27 18-9 224 8.3
+22 Memphis 29 18-11 239 8.2
+23 Murray St. 27 23-4 218 8.1
+26 Duquesne 27 18-9 218 8.1
+25 Arkansas 28 14-14 225 8.0
+26 Green Bay 29 15-14 230 7.9
+27 Syracuse 28 18-10 222 7.9
+28 Houston Baptist 25 10-15 198 7.9
+29 Central Mich. 28 20-8 221 7.9
+30 Alcorn 27 10-17 213 7.9
+31 Savannah St. 27 10-17 213 7.9
+32 La Salle 26 8-18 205 7.9
+33 Columbia 24 7-17 189 7.9
+34 Austin Peay 29 21-8 228 7.9
+35 Ga. Southern 28 18-10 220 7.9
+36 VCU 28 22-6 220 7.9
+37 Detroit Mercy 28 10-18 220 7.9
+38 Charleston So. 27 13-14 212 7.9
+39 Georgia St. 28 19-9 219 7.8
+40 Southern Miss. 27 17-10 211 7.8
+41 East Carolina 26 10-16 203 7.8
+42 Illinois 27 10-17 210 7.8
+43 Ole Miss 27 19-8 210 7.8
+44 UMBC 29 18-11 225 7.8
+45 Lipscomb 28 22-6 217 7.8
+46 Sam Houston St. 28 19-9 217 7.8
+47 Texas Southern 27 16-11 209 7.7
+48 Fairleigh Dickinson 28 15-13 216 7.7
+49 Sacramento St. 25 12-13 192 7.7
+50 Richmond 27 12-15 207 7.7
+51 Penn St. 27 11-16 207 7.7
+52 NC State 28 20-8 214 7.6
+53 Jacksonville St. 29 21-8 221 7.6
+54 Maine 28 5-23 213 7.6
+55 North Carolina 28 23-5 212 7.6
+56 Brown 26 17-9 196 7.5
+57 Florida 27 16-11 203 7.5
+58 Saint Louis 28 17-11 210 7.5
+59 ETSU 30 22-8 224 7.5
+60 Alabama A&M 28 5-23 209 7.5
+61 Eastern Mich. 28 13-15 209 7.5
+62 Morgan St. 26 8-18 194 7.5
+63 Holy Cross 29 15-14 216 7.4
+64 Gonzaga 29 27-2 216 7.4
+65 Florida St. 28 22-6 208 7.4
+66 Robert Morris 29 15-14 215 7.4
+67 Providence 29 16-13 215 7.4
+68 UT Martin 27 10-17 200 7.4
+69 Tennessee St. 28 9-19 207 7.4
+70 Purdue Fort Wayne 29 17-12 214 7.4
+71 Louisiana 27 16-11 199 7.4
+72 Rhode Island 27 13-14 198 7.3
+73 Texas Tech 27 22-5 198 7.3
+74 American 27 14-13 198 7.3
+75 Kansas St. 28 21-7 205 7.3
+76 Buffalo 28 25-3 205 7.3
+77 Oregon 27 15-12 197 7.3
+78 Iowa St. 28 20-8 204 7.3
+79 Loyola Marymount 28 18-10 204 7.3
+80 Georgia Tech 28 12-16 204 7.3
+81 Gardner-Webb 29 18-11 211 7.3
+82 Florida A&M 29 11-18 210 7.2
+83 Bethune-Cookman 28 13-15 202 7.2
+84 UMKC 28 10-18 202 7.2
+85 Samford 29 16-13 208 7.2
+86 TCU 28 18-10 200 7.1
+87 Nebraska 28 15-13 199 7.1
+88 Texas St. 28 22-6 199 7.1
+89 Tennessee Tech 29 7-22 206 7.1
+90 Missouri St. 29 16-13 206 7.1
+91 The Citadel 27 12-15 191 7.1
+92 Belmont 27 23-4 191 7.1
+93 Campbell 28 17-11 198 7.1
+94 IUPUI 29 16-13 205 7.1
+95 Pittsburgh 27 12-15 190 7.0
+96 Virginia Tech 28 22-6 197 7.0
+97 Monmouth 30 10-20 210 7.0
+98 Hartford 28 15-13 196 7.0
+99 Manhattan 28 9-19 195 7.0
+100 Bowling Green 28 19-9 195 7.0
+101 Saint Francis (PA) 27 15-12 188 7.0
+102 FGCU 30 13-17 208 6.9
+103 Southern Ill. 29 15-14 201 6.9
+104 VMI 28 8-20 194 6.9
+105 Kansas 28 21-7 194 6.9
+106 Western Ky. 28 16-12 194 6.9
+107 California 27 5-22 187 6.9
+108 UTSA 27 15-12 187 6.9
+109 Seton Hall 27 16-11 187 6.9
+110 New Mexico 26 11-15 180 6.9
+111 Stetson 30 7-23 207 6.9
+112 Wofford 28 24-4 193 6.9
+113 LIU Brooklyn 28 13-15 192 6.9
+114 Southern U. 28 5-23 191 6.8
+115 Iona 28 13-15 191 6.8
+116 Kent St. 28 20-8 190 6.8
+117 Fresno St. 27 19-8 183 6.8
+118 CSU Bakersfield 27 16-11 183 6.8
+119 Liberty 30 24-6 203 6.8
+120 Pepperdine 29 13-16 196 6.8
+121 Canisius 28 13-15 189 6.8
+122 Ball St. 28 14-14 189 6.8
+123 Col. of Charleston 30 22-8 202 6.7
+124 SFA 26 14-12 175 6.7
+125 Jacksonville 30 12-18 201 6.7
+126 Delaware St. 26 5-21 174 6.7
+127 UIC 29 15-14 194 6.7
+128 Alabama St. 25 11-14 167 6.7
+129 Ark.-Pine Bluff 28 11-17 187 6.7
+130 Cincinnati 27 23-4 180 6.7
+131 North Texas 28 20-8 186 6.6
+132 Youngstown St. 30 12-18 199 6.6
+133 Texas A&M 27 12-15 179 6.6
+134 UT Arlington 28 13-15 185 6.6
+135 SIUE 28 9-19 185 6.6
+136 Mercer 28 11-17 185 6.6
+137 Houston 27 26-1 178 6.6
+138 Miami (FL) 27 12-15 178 6.6
+139 Montana 27 20-7 178 6.6
+140 Hofstra 29 23-6 191 6.6
+141 North Florida 31 15-16 204 6.6
+142 Southeastern La. 28 14-14 184 6.6
+143 Hampton 27 12-15 177 6.6
+144 N.C. A&T 27 15-12 177 6.6
+145 Northwestern St. 27 10-17 177 6.6
+146 Nicholls St. 27 12-15 176 6.5
+147 UAB 28 17-11 182 6.5
+148 Ohio 27 12-15 175 6.5
+149 Loyola Chicago 29 17-12 187 6.4
+150 USC Upstate 29 6-23 187 6.4
+151 N.C. Central 29 15-14 187 6.4
+152 Purdue 27 20-7 174 6.4
+153 Rutgers 27 13-14 174 6.4
+154 Clemson 27 16-11 174 6.4
+155 George Mason 27 15-12 174 6.4
+156 Indiana St. 28 14-14 180 6.4
+157 UNC Asheville 28 4-24 180 6.4
+158 Iowa 28 21-7 180 6.4
+159 Utah St. 29 23-6 186 6.4
+160 NJIT 30 20-10 192 6.4
+161 DePaul 25 13-12 160 6.4
+162 Fairfield 28 8-20 179 6.4
+163 Penn 26 16-10 166 6.4
+164 Wright St. 29 18-11 185 6.4
+165 Nevada 27 25-2 172 6.4
+166 Northern Ariz. 27 9-18 172 6.4
+167 UConn 27 13-14 172 6.4
+168 A&M-Corpus Christi 27 11-16 172 6.4
+169 CSUN 28 11-17 178 6.4
+170 Indiana 28 14-14 178 6.4
+171 Coastal Caro. 26 13-13 165 6.3
+172 Jackson St. 27 10-17 171 6.3
+173 Northeastern 28 18-10 177 6.3
+174 Albany (NY) 28 11-17 177 6.3
+175 James Madison 29 13-16 183 6.3
+176 Long Beach St. 29 11-18 183 6.3
+177 Kentucky 28 24-4 176 6.3
+178 Pacific 29 13-16 182 6.3
+179 Grand Canyon 26 16-10 163 6.3
+180 UC Davis 26 10-16 163 6.3
+181 BYU 30 18-12 188 6.3
+182 Incarnate Word 27 6-21 169 6.3
+183 Arizona St. 27 19-8 169 6.3
+184 Texas 27 15-12 169 6.3
+185 Baylor 27 18-9 169 6.3
+186 San Francisco 28 21-7 175 6.3
+187 Michigan 28 24-4 175 6.3
+188 Southern California 28 15-13 175 6.3
+189 Valparaiso 29 14-15 181 6.2
+190 Grambling 27 13-14 168 6.2
+191 South Dakota St. 30 23-7 186 6.2
+192 Arkansas St. 27 12-15 167 6.2
+193 Colorado St. 27 11-16 167 6.2
+194 Creighton 28 15-13 173 6.2
+195 Eastern Ill. 29 14-15 179 6.2
+196 Wagner 27 13-14 166 6.1
+197 St. Bonaventure 27 13-14 166 6.1
+198 UCLA 28 15-13 172 6.1
+199 Army West Point 29 12-17 178 6.1
+200 Longwood 30 15-15 184 6.1
+201 Princeton 23 15-8 141 6.1
+202 SMU 26 13-13 159 6.1
+203 Central Ark. 27 10-17 165 6.1
+204 West Virginia 28 11-17 171 6.1
+205 Chicago St. 28 3-25 171 6.1
+206 South Carolina 28 14-14 171 6.1
+207 Northern Ky. 29 21-8 177 6.1
+208 Southern Utah 26 14-12 158 6.1
+209 La.-Monroe 26 14-12 158 6.1
+210 UNLV 27 15-12 164 6.1
+211 Fordham 27 11-16 164 6.1
+212 Cal St. Fullerton 27 13-14 164 6.1
+213 Middle Tenn. 28 9-19 170 6.1
+214 Southeast Mo. St. 29 9-20 176 6.1
+215 Radford 28 19-9 169 6.0
+216 Utah Valley 28 20-8 169 6.0
+217 Saint Mary's (CA) 29 19-10 174 6.0
+218 Presbyterian 29 17-12 174 6.0
+219 San Diego St. 28 18-10 168 6.0
+220 North Dakota 27 11-16 162 6.0
+221 South Alabama 27 13-14 162 6.0
+222 Siena 29 15-14 173 6.0
+223 Stony Brook 28 22-6 167 6.0
+224 Oregon St. 26 17-9 155 6.0
+225 UCF 26 20-6 155 6.0
+226 Yale 23 18-5 137 6.0
+227 Boston U. 29 13-16 172 5.9
+228 Norfolk St. 28 17-11 166 5.9
+229 Stanford 27 14-13 160 5.9
+230 Kennesaw St. 30 5-25 177 5.9
+231 UMES 29 5-24 171 5.9
+232 Old Dominion 28 22-6 165 5.9
+233 Ohio St. 28 18-10 165 5.9
+234 Boise St. 27 11-16 159 5.9
+235 Omaha 27 18-9 158 5.9
+236 Eastern Wash. 27 11-16 158 5.9
+237 Wyoming 27 6-21 158 5.9
+238 Georgetown 27 16-11 158 5.9
+239 Oklahoma 28 17-11 163 5.8
+240 Cornell 26 13-13 151 5.8
+241 Bradley 29 16-13 168 5.8
+242 Colgate 29 19-10 168 5.8
+243 New Mexico St. 28 24-4 162 5.8
+244 Binghamton 28 8-20 162 5.8
+245 Oklahoma St. 27 10-17 156 5.8
+246 San Diego 29 17-12 167 5.8
+247 Notre Dame 28 13-15 161 5.8
+248 Tennessee 27 24-3 155 5.7
+249 Howard 29 14-15 166 5.7
+250 Morehead St. 29 11-18 166 5.7
+251 Akron 28 15-13 160 5.7
+252 Miami (OH) 28 15-13 160 5.7
+253 Georgia 27 10-17 154 5.7
+254 UMass Lowell 29 14-15 165 5.7
+255 Evansville 29 10-19 165 5.7
+256 High Point 28 15-13 159 5.7
+257 Louisiana Tech 28 18-10 159 5.7
+258 Xavier 28 15-13 159 5.7
+259 UC Irvine 28 23-5 159 5.7
+260 St. Francis Brooklyn 29 16-13 164 5.7
+261 Villanova 28 20-8 158 5.6
+262 Cleveland St. 30 9-21 169 5.6
+263 Fla. Atlantic 28 16-12 157 5.6
+264 Little Rock 27 10-17 151 5.6
+265 Troy 26 11-15 145 5.6
+266 Michigan St. 28 23-5 156 5.6
+267 Harvard 23 14-9 128 5.6
+268 Portland 29 7-22 161 5.6
+269 Oakland 29 13-16 161 5.6
+270 Marist 28 12-16 155 5.5
+271 Northern Ill. 28 13-15 155 5.5
+272 Butler 28 15-13 155 5.5
+273 Washington St. 27 11-16 149 5.5
+274 Mississippi Val. 29 5-24 160 5.5
+275 Montana St. 26 12-14 143 5.5
+276 Western Ill. 27 9-18 148 5.5
+277 Appalachian St. 27 9-18 148 5.5
+278 South Dakota 27 11-16 148 5.5
+279 Vermont 28 22-6 153 5.5
+280 Virginia 26 24-2 142 5.5
+281 Central Conn. St. 29 11-18 158 5.4
+282 Sacred Heart 29 13-16 158 5.4
+283 Lafayette 27 10-17 147 5.4
+284 Saint Joseph's 27 11-16 147 5.4
+285 Tulsa 28 16-12 152 5.4
+286 Arizona 28 16-12 152 5.4
+287 Coppin St. 29 6-23 157 5.4
+288 Lehigh 27 18-9 146 5.4
+289 Bryant 27 10-17 145 5.4
+290 Navy 27 9-18 145 5.4
+291 Northwestern 27 12-15 145 5.4
+292 Drake 29 21-8 155 5.3
+293 Colorado 27 16-11 143 5.3
+294 Quinnipiac 27 15-12 143 5.3
+295 Saint Peter's 28 8-20 148 5.3
+296 Hawaii 27 16-11 142 5.3
+297 Rice 28 11-17 146 5.2
+298 Bucknell 28 18-10 146 5.2
+299 Cal Poly 25 6-19 130 5.2
+300 Davidson 27 20-7 140 5.2
+301 Wisconsin 28 19-9 145 5.2
+302 William & Mary 28 12-16 145 5.2
+303 Dartmouth 26 11-15 134 5.2
+304 UC Santa Barbara 27 19-8 139 5.1
+305 Marquette 27 23-4 139 5.1
+306 Boston College 26 13-13 133 5.1
+307 Northern Colo. 27 18-9 138 5.1
+308 Massachusetts 28 10-18 143 5.1
+309 UC Riverside 28 9-19 143 5.1
+310 George Washington 28 8-20 143 5.1
+311 Idaho St. 25 9-16 127 5.1
+312 Weber St. 27 16-11 137 5.1
+313 Toledo 28 22-6 142 5.1
+314 Air Force 27 12-15 136 5.0
+315 Dayton 28 19-9 141 5.0
+316 South Carolina St. 30 7-23 150 5.0
+317 Charlotte 26 6-20 128 4.9
+318 Louisville 28 18-10 137 4.9
+319 North Dakota St. 28 14-14 137 4.9
+320 Wake Forest 27 11-16 130 4.8
+321 Wichita St. 26 13-13 124 4.8
+322 Oral Roberts 30 10-20 143 4.8
+323 UNI 29 14-15 138 4.8
+324 Towson 29 10-19 138 4.8
+325 Minnesota 28 17-11 133 4.8
+326 McNeese 27 8-19 127 4.7
+327 Western Mich. 28 8-20 131 4.7
+328 Missouri 27 12-15 126 4.7
+329 Illinois St. 29 15-14 135 4.7
+330 Mt. St. Mary's 29 8-21 135 4.7
+331 Denver 28 7-21 129 4.6
+332 UNCW 30 9-21 138 4.6
+333 Utah 27 15-12 124 4.6
+334 Vanderbilt 27 9-18 124 4.6
+335 Tulane 26 4-22 119 4.6
+336 Santa Clara 28 15-13 128 4.6
+337 Delaware 29 16-13 131 4.5
+338 Milwaukee 29 9-20 131 4.5
+339 Drexel 29 13-16 131 4.5
+340 Alabama 28 17-11 126 4.5
+341 Maryland 28 21-7 125 4.5
+342 UTEP 26 8-18 116 4.5
+343 Seattle U 28 15-13 123 4.4
+344 Winthrop 28 18-10 121 4.3
+345 Chattanooga 29 12-17 124 4.3
+346 Western Caro. 30 7-23 127 4.2
+347 Idaho 27 4-23 111 4.1
+348 Niagara 29 12-17 119 4.1
+349 Elon 29 9-20 119 4.1
+350 San Jose St. 26 3-23 103 4.0
+351 New Hampshire 26 3-23 101 3.9
