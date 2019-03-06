@@ -346,6 +346,6 @@
 346 Tulane 26 4-22 273 401 -4.9
 347 Georgia 27 10-17 299 433 -5.0
 348 Western Caro. 30 7-23 318 559 -8.0
-349 North ALA 30 10-20 386 412 -0.9
-350 California Baptist 26 15-11 304 331 -1.0
-351
+349 Bradley 31 17-14 318 559 0.1
+350 Califronia Baptist 28 15-13 330 349 -0.7
+351 North Ala. 10-22 411 437 -0.8

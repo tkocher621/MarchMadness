@@ -1,5 +1,4 @@
 package com.company;
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
 
 import java.util.*;
 import java.io.*;
@@ -18,14 +17,15 @@ public class Main {
     {
         String[] data = in.split(" ");
 
+        float temp = -1f;
+
         for (String b : data)
         {
             try
             {
                 if (b.contains("."))
                 {
-                    float a = Float.parseFloat(b);
-                    return a;
+                    temp = Float.parseFloat(b);
                 }
             }
             catch (Exception x)
@@ -33,7 +33,7 @@ public class Main {
                 continue;
             }
         }
-        return -1f;
+        return temp;
     }
 
     private static boolean TryParseFloat(String f)
@@ -51,7 +51,6 @@ public class Main {
 
     private static float GetStat(String file, String teamName) throws IOException
     {
-        List<String> statList = new ArrayList<>();
         Scanner scan = new Scanner(new File(file));
         while (scan.hasNext())
         {
@@ -102,11 +101,6 @@ public class Main {
         return teamNames;
     }
 
-    private static Team CreateTeam(String teamName)
-    {
-        return null;
-    }
-
     private static List<Team> CalcTeams() throws IOException
     {
         List<String> teamNames = GetTeamNames("3PointPercentage.txt");
@@ -129,6 +123,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException
     {
-
+        List<Team> teams = CalcTeams();
+        Collections.sort(teams, new comp());
+        // Index 0 is the best team
     }
 }
