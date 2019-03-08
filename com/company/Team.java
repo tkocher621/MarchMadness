@@ -4,14 +4,14 @@ public class Team {
 
     String teamName;
 
-    float pointsPerGame;
-    float fieldGoals;
-    float reboundsPerGame;
-    float turnoversPerGame;
-    float freeThrowsPerGame;
-    float assistsPerGame;
-    float stealsPerGame;
-    float threePointersPerGame;
+    private float pointsPerGame;
+    private float fieldGoals;
+    private float reboundsPerGame;
+    private float turnoversPerGame;
+    private float freeThrowsPerGame;
+    private float assistsPerGame;
+    private float stealsPerGame;
+    private float threePointersPerGame;
 
     float finalScore;
 
@@ -22,7 +22,6 @@ public class Team {
     {
         teamName = _teamName;
 
-        // Multiply values below by weighted values
         pointsPerGame = _pointsPerGame;
         fieldGoals = _fieldGoals;
         reboundsPerGame = _reboundsPerGame;
@@ -45,6 +44,7 @@ public class Team {
         finalScore += (100 * assistsPerGame * 0.05f);
         finalScore += (100 * stealsPerGame * 0.05f);
         finalScore += (100 * threePointersPerGame * 0.1f);
+        finalScore += (Math.random() * 11); // Add slight random factor
     }
 
 }
