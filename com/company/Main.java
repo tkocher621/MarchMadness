@@ -100,6 +100,7 @@ public class Main {
 
     private static List<Team> CalcTeams() throws IOException
     {
+        // Use any file to get all potential team names
         List<String> teamNames = GetTeamNames("3PointPercentage.txt");
         List<Team> teams = new ArrayList<>();
 
@@ -113,7 +114,8 @@ public class Main {
                     GetStat("FreeThrowPercentage.txt", team),
                     GetStat("AssistsPerGame.txt", team),
                     GetStat("StealsPerGame.txt", team),
-                    GetStat("3PointPercentage.txt", team)));
+                    GetStat("3PointPercentage.txt", team),
+                    GetStat("StrengthOfSchedule.txt", team)));
         }
         return teams;
     }
@@ -161,7 +163,8 @@ public class Main {
     private static List<Team> GetPlayingTeams(List<Team> teams, List<String> names) throws IOException
     {
         List<Team> playingTeams = new ArrayList<>();
-        if (names.size() % 4 != 0 || names.size() <= 0)
+        //if (names.size() % 4 != 0 || names.size() % 2 != 0 || names.size() <= 0)
+        if (names.size() != 64 && names.size() != 68)
         {
             System.out.println("Error: cannot create bracket from team size.");
             return null;

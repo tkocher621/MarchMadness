@@ -12,13 +12,14 @@ public class Team {
     private float assistsPerGame;
     private float stealsPerGame;
     private float threePointersPerGame;
+    private float strengthOfSchedule;
 
     float finalScore;
 
     public Team(String _teamName,
                 float _pointsPerGame, float _fieldGoals, float _reboundsPerGame,
                 float _turnoversPerGame, float _freeThrowsPerGame, float _assistsPerGame,
-                float _stealsPerGame, float _threePointerPerGame)
+                float _stealsPerGame, float _threePointerPerGame, float _strengthOfSchedule)
     {
         teamName = _teamName;
 
@@ -30,6 +31,7 @@ public class Team {
         assistsPerGame = _assistsPerGame;
         stealsPerGame = _stealsPerGame;
         threePointersPerGame = _threePointerPerGame;
+        strengthOfSchedule = _strengthOfSchedule;
 
         CalculateScore();
     }
@@ -44,7 +46,8 @@ public class Team {
         finalScore += (100 * assistsPerGame * 0.05f);
         finalScore += (100 * stealsPerGame * 0.05f);
         finalScore += (100 * threePointersPerGame * 0.1f);
-        finalScore += (Math.random() * 11); // Add slight random factor
+        finalScore *= (strengthOfSchedule);
+        finalScore += (Math.random() * 5); // Add slight random factor
     }
 
 }
