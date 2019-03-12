@@ -146,6 +146,10 @@ public class Main {
         }
         if (winners.size() == 2)
         {
+            System.out.println("\n----------FINAL ROUND----------\n");
+            System.out.println(team1.get(0).teamName + " | " + team1.get(0).finalScore);
+            System.out.println(team2.get(1).teamName + " | " + team2.get(1).finalScore);
+
             System.out.println("\n----------CHAMPION----------");
             Team winner = (winners.get(0).finalScore > winners.get(1).finalScore) ?
                     winners.get(0) : winners.get(1);
