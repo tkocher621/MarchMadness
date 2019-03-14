@@ -1,5 +1,4 @@
 package com.company;
-import javax.imageio.IIOException;
 import java.util.*;
 import java.io.*;
 
@@ -164,11 +163,10 @@ public class Main {
         return winners;
     }
 
-    private static List<Team> GetPlayingTeams(List<Team> teams, List<String> names) throws IOException
+    private static List<Team> GetPlayingTeams(List<Team> teams, List<String> names)
     {
         List<Team> playingTeams = new ArrayList<>();
-        //if (names.size() % 4 != 0 || names.size() % 2 != 0 || names.size() <= 0)
-        if (names.size() != 64 && names.size() != 68)
+        if (names.size() != 64)
         {
             System.out.println("Error: cannot create bracket from team size.");
             return null;
