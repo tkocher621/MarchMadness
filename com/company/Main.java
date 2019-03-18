@@ -174,7 +174,11 @@ public class Main {
         for (int i = 0; i < teams.size(); i++)
         {
             Team team = teams.get(i);
-            if (names.contains(team.teamName)) playingTeams.add(teams.get(i));
+            if (names.contains(team.teamName))
+            {
+                System.out.println(team.teamName);
+                playingTeams.add(team);
+            }
         }
         return playingTeams;
     }
@@ -188,7 +192,7 @@ public class Main {
             String line = scan.nextLine();
             for (int i = 0; i < allTeams.size(); i++)
             {
-                if (allTeams.get(i).teamName.equalsIgnoreCase(line))
+                if (allTeams.get(i).teamName.equals(line))
                 {
                     playingTeams.add(line);
                     break;
