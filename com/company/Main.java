@@ -132,6 +132,9 @@ public class Main {
             toggle = !toggle;
         }
 
+        System.out.println(team1.get(0).teamName);
+        System.out.println(team2.get(0).teamName);
+
         List<Team> winners = new ArrayList<>();
 
         for (int i = 0; i < team1.size(); i++)
@@ -163,7 +166,20 @@ public class Main {
         return winners;
     }
 
-    private static List<Team> GetPlayingTeams(List<Team> teams, List<String> names)
+    private static Team GetTeamFromName(String name) throws IOException
+    {
+        List<Team> allTeams = CalcTeams();
+        for (Team t : allTeams)
+        {
+            if (t.teamName.equalsIgnoreCase(name))
+            {
+                return t;
+            }
+        }
+        return null;
+    }
+
+    private static List<Team> GetPlayingTeams(List<Team> teams, List<String> names) throws IOException
     {
         List<Team> playingTeams = new ArrayList<>();
         if (names.size() != 64)
@@ -171,15 +187,15 @@ public class Main {
             System.out.println("Error: cannot create bracket from team size.");
             return null;
         }
-        for (int i = 0; i < teams.size(); i++)
+        for (int i = 0; i < names.size(); i++)
         {
-            Team team = teams.get(i);
-            if (names.contains(team.teamName))
+            Team t = GetTeamFromName(names.get(i));
+            if (t != null)
             {
-                System.out.println(team.teamName);
-                playingTeams.add(team);
+                playingTeams.add(t);
             }
         }
+        System.out.println(playingTeams.get(0).teamName);
         return playingTeams;
     }
 
