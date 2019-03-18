@@ -1,64 +1,64 @@
-Abilene Christian
-Arizona St.
-Auburn
-Baylor
-Bradley
-Buffalo
-Cincinnati
-Colgate
 Duke
-Fairleigh Dickinson
-Florida
-Florida St.
-Gardner-Webb
-Georgia St.
-Gonzaga
-Houston
-Iona
-Iowa
-Iowa St.
-Kansas
-Kansas St.
-Kentucky
-Northern Ky.
-LSU
-Liberty
-Louisville
-Marquette
-Maryland
-Michigan
-Michigan St.
-Minnesota
-Mississippi St.
-Montana
-Murray St.
-Nevada
-New Mexico St.
-North Carolina
 North Dakota St.
-Northeastern
-Ohio St.
-Oklahoma
-Old Dominion
-Ole Miss
-Oregon
-Purdue
-Saint Louis
-Saint Mary's (CA)
-Seton Hall
-Syracuse
-Temple
-Tennessee
-Texas Tech
-UC Irvine
-UCF
-Utah St.
 VCU
-Vermont
-Villanova
-Virginia
+UCF
+Mississippi St.
+Liberty
 Virginia Tech
-Washington
-Wisconsin
-Wofford
+Saint Louis
+Maryland
+Temple
+LSU
 Yale
+Louisville
+Minnesota
+Michigan St.
+Bradley
+Gonzaga
+Fairleigh Dickinson
+Syracuse
+Baylor
+Marquette
+Murray St.
+Florida St.
+Vermont
+Buffalo
+Arizona St.
+Texas Tech
+Northern Ky.
+Nevada
+Florida
+Michigan
+Montana
+Virginia
+Gardner-Webb
+Ole Miss
+Oklahoma
+Wisconsin
+Oregon
+Kansas St.
+UC Irvine
+Villanova
+Saint Mary's (CA)
+Purdue
+Old Dominion
+Cincinnati
+Iowa
+Tennessee
+Colgate
+North Carolina
+Iona
+Utah St.
+Washington
+Auburn
+New Mexico St.
+Kansas
+Northeastern
+Iowa St.
+Ohio St.
+Houston
+Georgia St.
+Wofford
+Seton Hall
+Kentucky
+Abilene Christian
